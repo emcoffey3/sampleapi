@@ -1,0 +1,34 @@
+{
+	"movies": [
+		{
+			"id": 1,
+			"title": "Pulp Fiction",
+			"director": "Quentin Tarantino",
+			"releaseYear": 1994
+		},
+		{
+			"id": 2,
+			"title": "Ghostbusters",
+			"director": "Ivan Reitman",
+			"releaseYear": 1984
+		},
+		{
+			"id": 3,
+			"title": "Tombstone",
+			"director": "George P. Cosmatos",
+			"releaseYear": 1993
+		},
+		{
+			"id": 4,
+			"title": "Jurassic Park",
+			"director": "Steven Spielberg",
+			"releaseYear": 1993
+		},
+		{
+			"id": 5,
+			"title": "Se7en",
+			"director": "David Fincher",
+			"releaseYear": 1995
+		}
+	]
+}
