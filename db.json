@@ -151,9 +151,28 @@
 			"releaseYear": 1984
 		}
 	],
+	"companies": [
+		{
+			"id": 1,
+			"name": "Google"
+		},
+		{
+			"id": 2,
+			"name": "Microsoft"
+		},
+		{
+			"id": 3,
+			"name": "Amazon"
+		},
+		{
+			"id": 4,
+			"name": "Twitter"
+		}
+	],
 	"persons": [
 		{
 			"id": 1,
+			"companyId": 1,
 			"firstName": "Fletcher",
 			"lastName": "Harmon",
 			"dob": "1986-09-03",
