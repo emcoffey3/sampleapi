@@ -29,6 +29,126 @@
 			"title": "Se7en",
 			"director": "David Fincher",
 			"releaseYear": 1995
+		},
+		{
+			"id": 6,
+			"title": "The Nice Guys",
+			"director": "Shane Black",
+			"releaseYear": 2016
+		},
+		{
+			"id": 7,
+			"title": "The Shape of Water",
+			"director": "Guillermo del Toro",
+			"releaseYear": 2017
+		},
+		{
+			"id": 8,
+			"title": "The Handmaiden",
+			"director": "Park Chan-wook",
+			"releaseYear": 2016
+		},
+		{
+			"id": 9,
+			"title": "Hell or High Water",
+			"director": "David Mackenzie",
+			"releaseYear": 2016
+		},
+		{
+			"id": 10,
+			"title": "The Dark Knight",
+			"director": "Christopher Nolan",
+			"releaseYear": 2008
+		},
+		{
+			"id": 11,
+			"title": "Akira",
+			"director": "Katsuhiro Otomo",
+			"releaseYear": 1988
+		},
+		{
+			"id": 12,
+			"title": "Sicario",
+			"director": "Denis Villeneuve",
+			"releaseYear": 2015
+		},
+		{
+			"id": 13,
+			"title": "Blue Ruin",
+			"director": "Jeremy Saulnier",
+			"releaseYear": 2013
+		},
+		{
+			"id": 14,
+			"title": "Idiocracy",
+			"director": "Mike Judge",
+			"releaseYear": 2006
+		},
+		{
+			"id": 15,
+			"title": "Shaun of the Dead",
+			"director": "Edgar Wright",
+			"releaseYear": 2004
+		},
+		{
+			"id": 16,
+			"title": "Kiss Kiss Bang Bang",
+			"director": "Shane Black",
+			"releaseYear": 2005
+		},
+		{
+			"id": 17,
+			"title": "Fargo",
+			"director": "Joel Coen",
+			"releaseYear": 1996
+		},
+		{
+			"id": 18,
+			"title": "The Silence of the Lambs",
+			"director": "Jonathan Demme",
+			"releaseYear": 1991
+		},
+		{
+			"id": 19,
+			"title": "Fight Club",
+			"director": "David Fincher",
+			"releaseYear": 1999
+		},
+		{
+			"id": 20,
+			"title": "Heat",
+			"director": "Michael Mann",
+			"releaseYear": 1995
+		},
+		{
+			"id": 21,
+			"title": "Terminator 2: Judgment Day",
+			"director": "James Cameron",
+			"releaseYear": 1991
+		},
+		{
+			"id": 22,
+			"title": "Apollo 13",
+			"director": "Ron Howard",
+			"releaseYear": 1995
+		},
+		{
+			"id": 23,
+			"title": "Groundhog Day",
+			"director": "Harold Ramis",
+			"releaseYear": 1993
+		},
+		{
+			"id": 24,
+			"title": "The Usual Suspects",
+			"director": "Bryan Singer",
+			"releaseYear": 1995
+		},
+		{
+			"id": 25,
+			"title": "The Terminator",
+			"director": "James Cameron",
+			"releaseYear": 1984
 		}
 	]
 }
